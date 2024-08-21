@@ -140,8 +140,7 @@ const addBookToDOM = (book) => {
     bookElement.innerHTML = `
         <div class="bg-gray-200 shadow-sm rounded-md p-4">
             <h3 class="text-lg font-semibold">${book.label}</h3>
-            <p class="text-sm text-gray-600">Penulis: ${book.Penulis}</p>
-            <p class="text-sm text-gray-600">Tahun: ${book.Tahun}</p>
+            <p class="text-sm text-gray-600">Penulis: ${book.summary}</p>
             <div class="mt-4 flex space-x-2">
                 <button class="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600" onclick="updatedBook(${book.id})">${book.isComplete ? 'Belum Selesai dibaca' : 'Selesai dibaca'}</button>
                 <button class="bg-yellow-500 text-white px-4 py-2 rounded-md hover:bg-yellow-600" onclick="editBook(${book.id})">Edit Buku</button>
