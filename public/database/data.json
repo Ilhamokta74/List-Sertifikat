@@ -1,0 +1,453 @@
+[
+  {
+    "url": "https://www.dicoding.com/academies/555-belajar-analisis-data-dengan-python",
+    "label": "Belajar Analisis Data dengan Python",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_analisis_data_dengan_python_logo_271222164447.jpg",
+    "finished": false,
+    "isComplete": true
+  },
+  {
+    "url": "https://www.dicoding.com/academies/565-belajar-tools-front-end-web-intermediate",
+    "label": "Belajar Tools Front-End Web Intermediate",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_tools_front_end_web_intermediate_logo_070223112714.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/570-belajar-dasar-manajemen-proyek",
+    "label": "Belajar Dasar Manajemen Proyek",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_manajemen_proyek_logo_170223134601.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/580-belajar-pemrograman-fungsional-dengan-haskell",
+    "label": "Belajar Pemrograman Fungsional dengan Haskell",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_pemrograman_fungsional_dengan_haskell_logo_171123172504.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/590-belajar-penerapan-data-science",
+    "label": "Belajar Penerapan Data Science",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_penerapan_data_science_logo_250523145357.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/600-belajar-dasar-structured-query-language-sql",
+    "label": "Belajar Dasar Structured Query Language (SQL)",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_structured_query_language_sql_logo_050523100009.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/605-memulai-pemrograman-dengan-haskell",
+    "label": "Memulai Pemrograman dengan Haskell",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:memulai_pemrograman_dengan_haskell_logo_300623133611.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/610-menjadi-node-js-application-developer",
+    "label": "Menjadi Node.js Application Developer",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:menjadi_node_js_application_developer_logo_191023134559.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/615-belajar-dasar-data-science",
+    "label": "Belajar Dasar Data Science",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_data_science_logo_010923111954.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/620-belajar-pemrograman-prosedural-dengan-python",
+    "label": "Belajar Pemrograman Prosedural dengan Python",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_pemrograman_prosedural_dengan_python_logo_231023141744.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/653-belajar-dasar-ai",
+    "label": "Belajar Dasar AI",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos-belajar_dasar_ai_logo_181223114538.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/658-belajar-penerapan-machine-learning-dengan-google-cloud",
+    "label": "Belajar Penerapan Machine Learning dengan Google Cloud",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos-belajar_penerapan_machine_learning_dengan_google_cloud_logo_080124114224.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/663-belajar-penerapan-machine-learning-untuk-android",
+    "label": "Belajar Penerapan Machine Learning untuk Android",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos-belajar_penerapan_machine_learning_untuk_android_logo_030124152014.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/697-belajar-strategi-pengembangan-diri",
+    "label": "Belajar Strategi Pengembangan Diri",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos-belajar_strategi_pengembangan_diri_logo_190724154941.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/428-belajar-implementasi-ci-cd",
+    "label": "Belajar Implementasi CI/CD",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_implementasi_ci_cd_logo_230522150132.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/423-menjadi-linux-system-administrator",
+    "label": "Menjadi Linux System Administrator",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:menjadi_linux_system_administrator_logo_230522150354.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/413-belajar-fundamental-aplikasi-web-dengan-react",
+    "label": "Belajar Fundamental Aplikasi Web dengan React",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_fundamental_aplikasi_web_dengan_react_logo_260522191302.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/403-belajar-membuat-aplikasi-web-dengan-react",
+    "label": "Belajar Membuat Aplikasi Web dengan React",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_membuat_aplikasi_web_dengan_react_logo_180422104517.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/387-belajar-jaringan-komputer-untuk-pemula",
+    "label": "Belajar Jaringan Komputer untuk Pemula",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_jaringan_komputer_untuk_pemula_logo_090322100903.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/382-belajar-dasar-dasar-devops",
+    "label": "Belajar Dasar-Dasar DevOps",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_dasar_devops_logo_110522181432.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/352-belajar-pengembangan-aplikasi-android-intermediate",
+    "label": "Belajar Pengembangan Aplikasi Android Intermediate",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_pengembangan_aplikasi_android_intermediate_logo_140222092310.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/342-belajar-membuat-aplikasi-back-end-untuk-pemula-dengan-google-cloud",
+    "label": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_membuat_aplikasi_back_end_untuk_pemula_dengan_google_cloud_logo_261021104141.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/337-belajar-dasar-google-cloud",
+    "label": "Belajar Dasar Google Cloud",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_google_cloud_logo_051021140209.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/335-belajar-dasar-ux-design",
+    "label": "Belajar Dasar UX Design",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_ux_design_logo_111021170300.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/332-menjadi-google-cloud-architect",
+    "label": "Menjadi Google Cloud Architect",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:menjadi_google_cloud_architect_logo_291121134700.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/510-belajar-membuat-aplikasi-back-end-untuk-pemula-dengan-cloudeka",
+    "label": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Cloudeka",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_membuat_aplikasi_back_end_untuk_pemula_dengan_cloudeka_logo_141022141209.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/480-belajar-pengembangan-aplikasi-flutter-intermediate",
+    "label": "Belajar Pengembangan Aplikasi Flutter Intermediate",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_pengembangan_aplikasi_flutter_intermediate_logo_050123103345.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/445-belajar-membuat-aplikasi-android-dengan-jetpack-compose",
+    "label": "Belajar Membuat Aplikasi Android dengan Jetpack Compose",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_membuat_aplikasi_android_dengan_jetpack_compose_logo_031022114742.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/443-machine-learning-operations-mlops",
+    "label": "Machine Learning Operations (MLOps)",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:machine_learning_operations_mlops_logo_220722095304.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/433-belajar-membangun-arsitektur-microservices",
+    "label": "Belajar Membangun Arsitektur Microservices",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_membangun_arsitektur_microservices_logo_240522104327.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/418-menjadi-react-web-developer-expert",
+    "label": "Menjadi React Web Developer Expert",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:menjadi_react_web_developer_expert_logo_260522194211.png",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/292-meniti-karier-sebagai-software-developer",
+    "label": "Meniti Karier sebagai Software Developer",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/meniti_karier_sebagai_software_developer_logo_230421132747.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/302-pengenalan-ke-logika-pemrograman-programming-logic-101",
+    "label": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/pengenalan_ke_logika_pemrograman_programming_logic_101_logo_230421133238.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/317-belajar-dasar-git-dengan-github",
+    "label": "Belajar Dasar Git dengan GitHub",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_git_dengan_github_logo_050721150715.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/120-memulai-pemrograman-dengan-c",
+    "label": "Memulai Pemrograman Dengan C",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_c_logo_230421131703.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/177-belajar-dasar-visualisasi-data",
+    "label": "Belajar Dasar Visualisasi Data",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_visualisasi_data_logo_230421131758.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/86-memulai-pemrograman-dengan-python",
+    "label": "Memulai Pemrograman dengan Python",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_python_logo_230421132353.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/184-belajar-machine-learning-untuk-pemula",
+    "label": "Belajar Machine Learning untuk Pemula",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_machine_learning_untuk_pemula_logo_230421141649.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/185-belajar-pengembangan-machine-learning",
+    "label": "Belajar Pengembangan Machine Learning",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_pengembangan_machine_learning_logo_230421141730.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/319-machine-learning-terapan",
+    "label": "Machine Learning Terapan",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/machine_learning_terapan_logo_290421140248.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/312-simulasi-ujian-tensorflow-developer-certificate",
+    "label": "Simulasi Ujian TensorFlow Developer Certificate",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/simulasi_ujian_tensorflow_developer_certificate_logo_230421132546.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/60-memulai-pemrograman-dengan-java",
+    "label": "Memulai Pemrograman Dengan Java",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_java_logo_230421162124.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/80-memulai-pemrograman-dengan-kotlin",
+    "label": "Memulai Pemrograman dengan Kotlin",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_kotlin_logo_230421132137.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/169-belajar-prinsip-pemrograman-solid",
+    "label": "Belajar Prinsip Pemrograman SOLID",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_prinsip_pemrograman_solid_logo_230421132206.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/51-belajar-membuat-aplikasi-android-untuk-pemula",
+    "label": "Belajar Membuat Aplikasi Android untuk Pemula",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_android_untuk_pemula_logo_230421132330.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/14-belajar-fundamental-aplikasi-android",
+    "label": "Belajar Fundamental Aplikasi Android",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_aplikasi_android_logo_230421132359.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/165-menjadi-android-developer-expert",
+    "label": "Menjadi Android Developer Expert",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_android_developer_expert_logo_230421132521.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/287-simulasi-ujian-associate-android-developer",
+    "label": "Simulasi Ujian Associate Android Developer",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/simulasi_ujian_associate_android_developer_logo_230421132911.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/145-memulai-pemrograman-dengan-swift",
+    "label": "Memulai Pemrograman Dengan Swift",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_swift_logo_230421132022.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/171-belajar-membuat-aplikasi-ios-untuk-pemula",
+    "label": "Belajar Membuat Aplikasi iOS untuk Pemula",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_ios_untuk_pemula_logo_230421144231.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/202-belajar-fundamental-aplikasi-ios",
+    "label": "Belajar Fundamental Aplikasi iOS",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_aplikasi_ios_logo_230421144334.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/209-menjadi-ios-developer-expert",
+    "label": "Menjadi iOS Developer Expert",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_ios_developer_expert_logo_230421132134.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/123-belajar-dasar-pemrograman-web",
+    "label": "Belajar Dasar Pemrograman Web",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_pemrograman_web_logo_230421141544.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/315-belajar-membuat-front-end-web-untuk-pemula",
+    "label": "Belajar Membuat Front-End Web untuk Pemula",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_front_end_web_pemula_logo_270421095055.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/163-belajar-fundamental-front-end-web-development",
+    "label": "Belajar Fundamental Front-End Web Development",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_front_end_web_development_logo_230421131631.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/219-menjadi-front-end-web-developer-expert",
+    "label": "Menjadi Front-End Web Developer Expert",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_front_end_web_developer_expert_logo_230421131923.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/251-cloud-practitioner-essentials-belajar-dasar-aws-cloud",
+    "label": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/cloud_practitioner_essentials_belajar_dasar_aws_cloud_logo_230421133823.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/256-belajar-dasar-pemrograman-javascript",
+    "label": "Belajar Dasar Pemrograman JavaScript",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_pemrograman_javascript_logo_230421133231.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/261-belajar-membuat-aplikasi-back-end-untuk-pemula",
+    "label": "Belajar Membuat Aplikasi Back-End untuk Pemula",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_back_end_untuk_pemula_logo_230421133303.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/266-architecting-on-aws-membangun-arsitektur-cloud-di-aws",
+    "label": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/architecting_on_aws_membangun_arsitektur_cloud_di_aws_logo_230421133324.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/271-belajar-fundamental-aplikasi-back-end",
+    "label": "Belajar Fundamental Aplikasi Back-End",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_aplikasi_back_end_logo_230421133405.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/276-menjadi-back-end-developer-expert",
+    "label": "Menjadi Back-End Developer Expert",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_back_end_developer_expert_logo_230421133615.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/133-menjadi-google-cloud-engineer",
+    "label": "Menjadi Google Cloud Engineer",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_google_cloud_engineer_logo_230421133614.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/281-simulasi-ujian-associate-cloud-engineer",
+    "label": "Simulasi Ujian Associate Cloud Engineer",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/simulasi_ujian_associate_cloud_engineer_logo_230421133307.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/191-memulai-pemrograman-dengan-dart",
+    "label": "Memulai Pemrograman dengan Dart",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_dart_logo_230421132631.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/159-belajar-membuat-aplikasi-flutter-untuk-pemula",
+    "label": "Belajar Membuat Aplikasi Flutter untuk Pemula",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_flutter_untuk_pemula_logo_230421132656.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/195-belajar-fundamental-aplikasi-flutter",
+    "label": "Belajar Fundamental Aplikasi Flutter",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_aplikasi_flutter_logo_230421132717.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/199-menjadi-flutter-developer-expert",
+    "label": "Menjadi Flutter Developer Expert",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_flutter_developer_expert_logo_290421175717.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/313-belajar-membuat-augmented-reality-dengan-lens-studio",
+    "label": "Belajar Membuat Augmented Reality dengan Lens Studio",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_augmented_reality_dengan_lens_studio_logo_230421142950.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/237-memulai-dasar-pemrograman-untuk-menjadi-pengembang-software",
+    "label": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/pengenalan_ke_dasar_pemrograman_basic_programming_101_logo_230421132319.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/153-belajar-membangun-line-front-end-framework-liff",
+    "label": "Belajar Membangun LINE Front-end Framework (LIFF)",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membangun_line_front_end_framework_liff_logo_230421133954.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/32-belajar-membangun-line-chatbot",
+    "label": "Belajar Membangun LINE Chatbot",
+    "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membangun_line_chatbot_logo_230421133825.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/505-simulasi-ujian-pendidik-level-1-google-certified-educator-level-1-indonesian",
+    "label": "Simulasi Ujian Pendidik Level 1 (Google Certified Educator Level 1 - Indonesian)",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:simulasi_ujian_pendidik_level_1_google_certified_educator_level_1_indonesian_logo_090922214730.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/545-simulasi-ujian-pendidik-level-2-google-certified-educator-level-2-indonesian",
+    "label": "Simulasi Ujian Pendidik Level 2 (Google Certified Educator Level 2 - Indonesian)",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:simulasi_ujian_pendidik_level_2_google_certified_educator_level_2_indonesian_logo_221122184419.jpg",
+    "finished": false
+  },
+  {
+    "url": "https://www.dicoding.com/academies/550-simulasi-ujian-penilaian-keterampilan-pelatih-trainer-skills-assessment-indonesian",
+    "label": "Simulasi Ujian Penilaian Keterampilan Pelatih (Trainer Skills Assessment - Indonesian)",
+    "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:simulasi_ujian_penilaian_keterampilan_pelatih_trainer_skills_assessment_indonesian_logo_221122184806.jpg",
+    "finished": false
+  }
+]

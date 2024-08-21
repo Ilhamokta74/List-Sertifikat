@@ -5,12 +5,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search and Cards</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style/style.css">
 </head>
 
 <body>
+    <header class="header">
+        <div class="logo">
+            <h1>Sertifikat</h1>
+        </div>
+        <nav class="nav">
+            <ul>
+                <li><a href="#">Login</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Menu ▼</a>
+                    <div class="dropdown-content">
+                        <a href="#">Option 1</a>
+                        <a href="#">Option 2</a>
+                        <a href="#">Option 3</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
     <div class="container">
         <input type="text" id="search" placeholder="Search..." onkeyup="filterCards()">
+        <h2>Belum Selesai</h2>
         <div id="card-container" class="card-container">
 
         </div>
@@ -34,6 +54,11 @@
                                             <p>61 Modul | 31.352 Siswa Terdaftar</p>
                                         </a>
                         `;
+                        if (!item.finished) {
+                            card.style.borderColor = 'red';
+                        } else {
+                            card.style.borderColor = 'green';
+                        }
                         cardContainer.appendChild(card);
                     });
                 });
