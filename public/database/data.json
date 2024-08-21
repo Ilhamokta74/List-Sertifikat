@@ -5,7 +5,7 @@
     "label": "Belajar Analisis Data dengan Python",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_analisis_data_dengan_python_logo_271222164447.jpg",
     "summary": "Pelajari berbagai konsep dasar analisis data beserta tahapannya, dilengkapi pembahasan studi kasus menggunakan bahasa pemrograman Python.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "label": "Belajar Dasar Manajemen Proyek",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_manajemen_proyek_logo_170223134601.png",
     "summary": "Mempelajari dasar manajemen proyek, siklus dan metodologi manajemen proyek, hingga mengejar karir manajemen proyek.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "label": "Belajar Pemrograman Fungsional dengan Haskell",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_pemrograman_fungsional_dengan_haskell_logo_171123172504.png",
     "summary": "Perdalam kemampuan pemrograman fungsional dengan Haskell melalui teknik list comprehension, pattern matching, hingga higher order functions.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "label": "Belajar Dasar Structured Query Language (SQL)",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_structured_query_language_sql_logo_050523100009.jpg",
     "summary": "Pelajari berbagai konsep dasar structured query language (SQL) mulai dari pengenalan data dan basis data hingga berlatih basic query.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "label": "Memulai Pemrograman dengan Haskell",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:memulai_pemrograman_dengan_haskell_logo_300623133611.jpg",
     "summary": "Belajar pemrograman Haskell yang merupakan bahasa fungsional murni dan didesain untuk pembelajaran, riset, dan aplikasi industri.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "label": "Menjadi Node.js Application Developer",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:menjadi_node_js_application_developer_logo_191023134559.jpg",
     "summary": "Pelajari core module Node.js secara mendalam agar mampu membangun aplikasi untuk berbagai tujuan dengan menggunakan JavaScript.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "label": "Belajar Dasar Data Science",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_data_science_logo_010923111954.jpg",
     "summary": "Pelajari dasar data science mulai dari pengenalan data hingga membuat portofolio untuk mengantarkan Anda menjadi seorang data scientist.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "label": "Belajar Pemrograman Prosedural dengan Python",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_pemrograman_prosedural_dengan_python_logo_231023141744.png",
     "summary": "Pelajari konsep pemrograman prosedural dalam menyusun program Python untuk pemecahan masalah berdasarkan aksi yang terstruktur.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "label": "Belajar Dasar AI",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos-belajar_dasar_ai_logo_181223114538.png",
     "summary": "Kelas ini memberikan pemahaman terkait dasar-dasar Artificial Intelligence dan subbidang AI mencakup Machine Learning serta Deep Learning.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 12,
@@ -133,7 +133,7 @@
     "label": "Belajar Fundamental Aplikasi Web dengan React",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_fundamental_aplikasi_web_dengan_react_logo_260522191302.png",
     "summary": "Pelajari penerapan validasi props, client routing, transaksi RESTful API, hingga React Hooks sebagai fondasi dalam membangun aplikasi React.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "label": "Belajar Membuat Aplikasi Web dengan React",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_membuat_aplikasi_web_dengan_react_logo_180422104517.jpg",
     "summary": "Pelajari kemampuan dasar dalam membuat aplikasi React seperti element, component, props, event handling, dan state.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 19,
@@ -157,7 +157,7 @@
     "label": "Belajar Dasar-Dasar DevOps",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_dasar_devops_logo_110522181432.png",
     "summary": "Pelajari kultur, praktik, dan tools pada DevOps yang memungkinkan proses pengembangan aplikasi menjadi lebih cepat, efisien, dan aman.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 21,
@@ -173,7 +173,7 @@
     "label": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_membuat_aplikasi_back_end_untuk_pemula_dengan_google_cloud_logo_261021104141.png",
     "summary": "Belajar membuat RESTful API, dari HTTP server, routing, hingga membangun aplikasi Back-End dengan Google Cloud menggunakan Compute Engine.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "label": "Belajar Dasar Google Cloud",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_dasar_google_cloud_logo_051021140209.jpg",
     "summary": "Mengenal konsep, terminologi, dan layanan yang digunakan dalam teknologi cloud. Hingga cara meningkatkan nilai bisnis bersama Google Cloud.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 24,
@@ -253,7 +253,7 @@
     "label": "Meniti Karier sebagai Software Developer",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/meniti_karier_sebagai_software_developer_logo_230421132747.jpg",
     "summary": "Pelajari berbagai jalur yang tersedia sebagai Software Developer dari sudut pandang developer ahli yang sudah meniti karier di bidangnya.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "label": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/pengenalan_ke_logika_pemrograman_programming_logic_101_logo_230421133238.jpg",
     "summary": "Pelajari logika-logika dasar dalam pemrograman dimulai dari jenis-jenis logika pemrograman, gerbang logika, hingga computational thinking.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "label": "Belajar Dasar Git dengan GitHub",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_git_dengan_github_logo_050721150715.jpg",
     "summary": "Pelajari cara mengelola data atau kode menggunakan Git dengan GitHub, mulai dari dasar-dasar Git hingga berkolaborasi dengan tim.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "label": "Memulai Pemrograman Dengan C",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_c_logo_230421131703.jpg",
     "summary": "Belajar programming menggunakan bahasa C yang menjadi populer dikarenakan cepat dan mudah untuk dipelajari bagi para pemula.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "label": "Belajar Dasar Visualisasi Data",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_visualisasi_data_logo_230421131758.jpg",
     "summary": "Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "label": "Memulai Pemrograman dengan Python",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_python_logo_230421132353.jpg",
     "summary": "Pelajari dasar pemrograman Python hingga library populer yang menjadi landasan tren industri seperti data science dan machine learning.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "label": "Belajar Machine Learning untuk Pemula",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_machine_learning_untuk_pemula_logo_230421141649.jpg",
     "summary": "Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "label": "Belajar Pengembangan Machine Learning",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_pengembangan_machine_learning_logo_230421141730.jpg",
     "summary": "Pelajari berbagai penerapan deep learning mulai dari klasifikasi gambar dan teks, time series, sistem rekomendasi, hingga Generative AI.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 40,
@@ -333,7 +333,7 @@
     "label": "Memulai Pemrograman Dengan Java",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_java_logo_230421162124.jpg",
     "summary": "Belajar bahasa Java buat kamu yang ingin mempelajari konsep Pemrograman Berorientasi Objek (PBO) terpopuler untuk mengembangkan aplikasi.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 43,
@@ -349,7 +349,7 @@
     "label": "Belajar Prinsip Pemrograman SOLID",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_prinsip_pemrograman_solid_logo_230421132206.jpg",
     "summary": "Pelajari kelima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada pemrograman berorientasi objek (OOP).",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 45,
@@ -389,7 +389,7 @@
     "label": "Memulai Pemrograman Dengan Swift",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/memulai_pemrograman_dengan_swift_logo_230421132022.jpg",
     "summary": "Belajar bahasa Swift buat kamu yang ingin mempelajari konsep dasar pemrograman dalam mengembangkan aplikasi iOS, iPadOS, dan macOS.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 50,
@@ -421,7 +421,7 @@
     "label": "Belajar Dasar Pemrograman Web",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_pemrograman_web_logo_230421141544.jpg",
     "summary": "Pelajari komponen-komponen dasar HTML dan CSS yang merupakan fondasi utama untuk menjadi front-end web developer.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 54,
@@ -429,7 +429,7 @@
     "label": "Belajar Membuat Front-End Web untuk Pemula",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_front_end_web_pemula_logo_270421095055.jpg",
     "summary": "Pelajari materi mengenai DOM manipulation, Event, dan Web Storage untuk meningkatkan fungsionalitas dan interaktifitas pada website Anda.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 55,
@@ -437,7 +437,7 @@
     "label": "Belajar Fundamental Front-End Web Development",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_front_end_web_development_logo_230421131631.jpg",
     "summary": "Pelajari sintaks ES6, Web Component, dan Build Tools dalam membangun website dengan teknik yang simple, reusable, dan optimized.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 56,
@@ -445,7 +445,7 @@
     "label": "Menjadi Front-End Web Developer Expert",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/menjadi_front_end_web_developer_expert_logo_230421131923.jpg",
     "summary": "Pelajari teknik-teknik expert serta modern dalam membangun website yang optimal pada seluruh perangkat, terutama pada perangkat mobile.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 57,
@@ -453,7 +453,7 @@
     "label": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/cloud_practitioner_essentials_belajar_dasar_aws_cloud_logo_230421133823.jpg",
     "summary": "Pelajari materi dasar Cloud dengan menggunakan AWS, dari konsep cloud computing, hingga cara membangun arsitektur yang baik.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@
     "label": "Belajar Dasar Pemrograman JavaScript",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_dasar_pemrograman_javascript_logo_230421133231.jpg",
     "summary": "Pelajari dasar JavaScript, dari fundamental, sintaks dan fitur ES6, hingga konsep automation test menggunakan framework populer.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@
     "label": "Belajar Membuat Aplikasi Back-End untuk Pemula",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_membuat_aplikasi_back_end_untuk_pemula_logo_230421133303.jpg",
     "summary": "Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 60,
@@ -477,7 +477,7 @@
     "label": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/architecting_on_aws_membangun_arsitektur_cloud_di_aws_logo_230421133324.jpg",
     "summary": "Pelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3 hingga yang canggih dengan teknologi serverless.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 61,
@@ -485,7 +485,7 @@
     "label": "Belajar Fundamental Aplikasi Back-End",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/belajar_fundamental_aplikasi_back_end_logo_230421133405.jpg",
     "summary": "Pelajari teknologi dalam membangun RESTful API yang canggih seperti Database, Storage, hingga Authentication dan Authorization.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 62,
@@ -557,7 +557,7 @@
     "label": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
     "imageUrl": "https://d17ivq9b7rppb3.cloudfront.net/original/academy/pengenalan_ke_dasar_pemrograman_basic_programming_101_logo_230421132319.jpg",
     "summary": "Pelajari langkah menjadi pengembang software dari tahapan analisis dan perencanaan sampai modifikasi perangkat lunak beserta dokumentasi.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 71,
