@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search and Cards</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <input type="text" id="search" placeholder="Search..." onkeyup="filterCards()">
+        <div id="card-container" class="card-container">
+
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            fetch('./data/Data.json')
+                .then(response => response.json())
+                .then(data => {
+                    const cardContainer = document.getElementById('card-container');
+                    data.forEach(item => {
+                        const card = document.createElement('div');
+                        card.classList.add('card');
+                        card.innerHTML = `
+                                        <a href=${item.url}>
+                                            <h2>${item.label}</h2>
+                                            <p>30 Jam <span class="rating">★4,80</span> Pemula</p>
+                                            <p>Pelajari berbagai konsep dasar analisis data beserta tahapannya, dilengkapi pembahasan studi kasus
+                                                menggunakan bahasa pemrograman Python.</p>
+                                            <p>61 Modul | 31.352 Siswa Terdaftar</p>
+                                        </a>
+                        `;
+                        cardContainer.appendChild(card);
+                    });
+                });
+        });
+
+        function filterCards() {
+            const searchValue = document.getElementById('search').value.toLowerCase();
+            const cards = document.querySelectorAll('.card');
+            cards.forEach(card => {
+                const title = card.querySelector('h2').innerText.toLowerCase();
+                if (title.includes(searchValue)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>
