@@ -13,7 +13,7 @@
     "label": "Belajar Tools Front-End Web Intermediate",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:belajar_tools_front_end_web_intermediate_logo_070223112714.png",
     "summary": "Pelajari tools berstandar industri dengan Sass, Bootstrap, Lit, Axios, dan Firebase dalam membangun aplikasi web yang efisien dan powerful.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 3,
@@ -245,7 +245,7 @@
     "label": "Menjadi React Web Developer Expert",
     "imageUrl": "https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos:menjadi_react_web_developer_expert_logo_260522194211.png",
     "summary": "Pelajari kaidah penulisan kode, state management dengan Redux, testing, hingga deployment dengan CI/CD pada pengembangan aplikasi React-mu.",
-    "isComplete": false
+    "isComplete": true
   },
   {
     "id": 32,
